@@ -1,4 +1,6 @@
-# Árvore Binária de Pesquisa (ABP) em Linguagem C
+#  Árvore Binária de Pesquisa (ABP) em Linguagem C
+
+🌲🌲🌲🔎
 
 Este projeto tem como intuido o aprendizado sobre as diferentes estruturas de dados, utilizadas durante o processo de programação, 
 bem como exercitar o raciocínio lógico e o conhecimento na linguagem C.
